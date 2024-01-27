@@ -38,15 +38,6 @@ To get started with using the Forwarder Address Creator:
 4. Integrate the event listener mechanism to trigger bridge transactions.
 5. Test the functionality with sample transactions and payment collections.
 
-## Contribution Guidelines
-
-Contributions to the Forwarder Address Creator are welcome! To contribute:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and ensure tests pass.
-- Submit a pull request detailing the changes made and any relevant information.
-
 ---
 
 By leveraging the Forwarder Address Creator, users can streamline fund transfers, optimize transaction costs, and simplify payment collections across different blockchain networks and currencies. Start optimizing your transactions today!
